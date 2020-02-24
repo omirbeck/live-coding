@@ -1,0 +1,20 @@
+{
+  "name": "live-coding",
+  "version": "1.0.0",
+  "description": "Friday Live Coding in RS School",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass sass/style.scss sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omirbeck/live-coding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omirbeck/live-coding/issues"
+  },
+  "homepage": "https://github.com/omirbeck/live-coding#readme"
+}
